@@ -98,12 +98,6 @@ def learn_word():
     new_data = pandas.DataFrame(data_dict)
     new_data.to_csv("./data/words_to_learn.csv", index=False)
 
-
-    
-    
-
-
-
 # UI Setup - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 window = Tk()
