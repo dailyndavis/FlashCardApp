@@ -1,7 +1,7 @@
 # FlashCardApp
 
 Hello! :) 
-I created this Flashcard app to get more familiar with the Pandas library and Tkinter. 
+I created this Flashcard app as part of the Udemy 100 Days of Python course to get more familiar with the Pandas library and Tkinter. 
 I used to study French, and thought this would be a fun way to keep practicing. 
 Feel free to download/use this, or let me know if you noticed any imrpovements. Thanks for stopping by! 
 
